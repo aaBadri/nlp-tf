@@ -5,15 +5,19 @@ All codes of this course is available in the instructor's [repo](https://github.
 
 ## datasets
 ### [**Sarcasm**](https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection)
-```Sarcasm Detection using Hybrid Neural Network
+```
+Sarcasm Detection using Hybrid Neural Network
 Rishabh Misra, Prahal Arora
-Arxiv, August 2019.```
+Arxiv, August 2019.
+```
 
 ### [**BBC**](http://mlg.ucd.ie/datasets/bbc.html)
-```D. Greene and P. Cunningham. "Practical Solutions to the Problem of Diagonal Dominance in Kernel Document Clustering", Proc. ICML 2006.```
+```
+D. Greene and P. Cunningham. "Practical Solutions to the Problem of Diagonal Dominance in Kernel Document Clustering", Proc. ICML 2006.
+```
 
 
-### [**Large Movie Review**]http://ai.stanford.edu/~amaas/data/sentiment/
+### [**Large Movie Review**](http://ai.stanford.edu/~amaas/data/sentiment/)
 ```
 @InProceedings{maas-EtAl:2011:ACL-HLT2011,
   author    = {Maas, Andrew L.  and  Daly, Raymond E.  and  Pham, Peter T.  and  Huang, Dan  and  Ng, Andrew Y.  and  Potts, Christopher},
