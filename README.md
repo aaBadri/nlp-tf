@@ -1,5 +1,5 @@
 # nlp-tf
-Good codes and examples of the Natural Language Processing in TensorFlow [course](https://www.coursera.org/learn/natural-language-processing-tensorflow) will be here!
+Good codes and examples of the "Natural Language Processing in TensorFlow" [course](https://www.coursera.org/learn/natural-language-processing-tensorflow) will be here!
 
 All codes of this course is available in the instructor's [repo](https://github.com/lmoroney/dlaicourse/tree/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP)
 
@@ -34,5 +34,5 @@ D. Greene and P. Cunningham. "Practical Solutions to the Problem of Diagonal Dom
 
 ### [**irish-lyrics**](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/irish-lyrics-eof.txt)
 ```
-all rights belong to its rightful owner (Laurence Moroney : https://github.com/lmoroney)
+All rights belong to its rightful owner (Laurence Moroney : https://github.com/lmoroney)
 ```
