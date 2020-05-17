@@ -31,3 +31,8 @@ D. Greene and P. Cunningham. "Practical Solutions to the Problem of Diagonal Dom
   url       = {http://www.aclweb.org/anthology/P11-1015}
 }
 ```
+
+### [**irish-lyrics**](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/irish-lyrics-eof.txt)
+```
+all rights belong to its rightful owner (Laurence Moroney : https://github.com/lmoroney)
+```
