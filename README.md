@@ -41,3 +41,8 @@ All rights belong to its rightful owner (Laurence Moroney : https://github.com/l
 ```
 Sentiment140 dataset with 1.6 million tweets
 ```
+
+### [**glove.6B.100d.txt**](https://www.kaggle.com/terenceliu4444/glove6b100dtxt)
+```
+100 dimension version of GloVe
+```
