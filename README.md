@@ -36,3 +36,8 @@ D. Greene and P. Cunningham. "Practical Solutions to the Problem of Diagonal Dom
 ```
 All rights belong to its rightful owner (Laurence Moroney : https://github.com/lmoroney)
 ```
+
+### [**Sentiment140**](https://www.kaggle.com/kazanova/sentiment140)
+```
+Sentiment140 dataset with 1.6 million tweets
+```
